@@ -1,0 +1,9 @@
+{
+    "key": "value",
+    "angka": 18,
+    "array": ["Hello", "World", "My", "Name", "Fajar"],
+    "new-object": {
+        "fav" : ["Anime", "Manga", "Genshin"],
+        "nama": "alvian"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "jet": 1,
+    "key": "value",
+    "myfav": "genshin",
+    "new-object": {
+        "arr": [
+            2,
+            4,
+            5
+        ]
+    }
+}
